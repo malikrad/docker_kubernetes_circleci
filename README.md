@@ -1,5 +1,5 @@
 <include a CircleCI status badge, here>
-[![malikrad](https://circleci.com/gh/malikrad/docker_kubernetes_circleci.svg?style=svg)](https://app.circleci.com/pipelines/github/malikrad/docker_kubernetes_circleci?branch=master)
+[![malikrad](https://circleci.com/gh/malikrad/docker_kubernetes_circleci.svg?style=svg)](https://app.circleci.com/pipelines/github/malikrad/docker_kubernetes_circleci?branch=submission)
 
 ## Project Overview
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
