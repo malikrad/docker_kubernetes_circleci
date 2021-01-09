@@ -1,4 +1,5 @@
 <include a CircleCI status badge, here>
+[![malikrad](https://circleci.com/gh/circleci/docker_kubernetes_circleci.svg?style=shield)](https://app.circleci.com/pipelines/github/malikrad/docker_kubernetes_circleci?branch=master)
 
 ## Project Overview
 
