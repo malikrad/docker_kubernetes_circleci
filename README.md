@@ -1,4 +1,4 @@
-[![malikrad](https://circleci.com/gh/malikrad/docker_kubernetes_circleci?branch=submission.svg?style=svg)](https://circleci.com/gh/malikrad/docker_kubernetes_circleci?branch=submission)
+[![malikrad](https://circleci.com/gh/malikrad/docker_kubernetes_circleci.svg?style=svg)](https://circleci.com/gh/malikrad/docker_kubernetes_circleci?branch=submission)
 
 
 ## Project Overview
